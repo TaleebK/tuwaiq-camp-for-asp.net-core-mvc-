@@ -5,15 +5,15 @@
 
 | Day  | Topics & Lesson | 
 | ------------- | ------------- | 
-| 1  | install Visual Studio code - Bootstrap   | 
+| 1  | Install visual studio code - Bootstrap   | 
 | 2  | Bootstrap  | 
 | 3  | Install visual studio IDE - sql server - SSMS - Postman  | 
-| 4  | route - Controller - view  | 
-| 5  | view - Model  | 
+| 4  | Route - Controller - View  | 
+| 5  | View - Model  | 
 | 6  | Model - exchange the data between controller and view & install entity framework ef  |
 | 7  | create Data folder & connecting to database and sqlserver & create table by migration   | 
-| 8  | create - read - delete [Database]  | 
-| 9  | Update [database]  | 
+| 8  | create - read - delete [Database]  (crud operations)| 
+| 9  | Update [database]  (crud operations)| 
 | 10  | Dashboard Project part 1  | 
 | 11  | Dashboard Project part 2  | 
 | 12  | Dashboard Project part 3 - Identity(Athentication)  | 
